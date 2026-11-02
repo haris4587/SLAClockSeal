@@ -1,0 +1,12 @@
+{
+  "service": "DemoCloud API",
+  "synthetic": true,
+  "coverage": [
+    [
+      1790812800,
+      1793491200
+    ]
+  ],
+  "outages": [],
+  "statement": "SYNTHETIC: Provider asserts continuous monitoring for all declared seconds and no outages at all. Customer requests a service credit for DemoCloud API. This contradicts the customer outage report."
+}

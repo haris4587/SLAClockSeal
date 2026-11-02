@@ -1,0 +1,16 @@
+{
+  "service": "DemoCloud API",
+  "synthetic": true,
+  "coverage": [
+    [
+      1790812800,
+      1790899200
+    ],
+    [
+      1790902800,
+      1793491200
+    ]
+  ],
+  "outages": [],
+  "statement": "SYNTHETIC: The listed coverage has continuous monitoring. Telemetry is missing between 2026-10-02T00:00:00Z and 01:00:00Z. Customer requests a credit for DemoCloud API."
+}

@@ -1,0 +1,21 @@
+{
+  "service": "DemoCloud API",
+  "synthetic": true,
+  "coverage": [
+    [
+      1790812800,
+      1793491200
+    ]
+  ],
+  "outages": [
+    {
+      "id": "latency",
+      "interval": [
+        1790899200,
+        1790906400
+      ],
+      "detail": "Only latency degradation occurred; API remained available."
+    }
+  ],
+  "statement": "SYNTHETIC: Continuous monitoring covers every second of the declared coverage. Customer requests the contractual service credit for DemoCloud API. Listed events are complete API unavailability; no other outages were recorded."
+}

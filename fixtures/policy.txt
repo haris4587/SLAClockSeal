@@ -1,0 +1,7 @@
+SYNTHETIC SLA FOR TESTING ONLY. Service: DemoCloud API.
+The measurement window is October 2026 UTC. Availability target: 99.9 percent.
+Only complete API unavailability qualifies; degraded latency alone does not.
+Monitoring reports published in the mutually selected evidence repository are accepted documentary inputs for this synthetic assessment. Their coverage declarations must expressly confirm continuous monitoring. They are not cryptographic proof of actual uptime.
+Scheduled maintenance is excluded only for the exact published maintenance interval, for this service, when the notice expressly documents publication at least 24 hours before its start. An unsupported or ambiguous publication time is insufficient.
+The denominator remains the full measurement window. Exclude only overlapping qualifying outage seconds. Union overlaps and duplicates. Claimant must identify the covered service and request a credit; there is no claim filing deadline in this demonstration.
+Credit schedule: availability strictly below 99.9 percent earns 10 percent; strictly below 99.0 percent earns 25 percent; strictly below 95.0 percent earns 50 percent. Exact equality does not enter a tier. Use the highest applicable tier. Credits apply to the locked eligible fee in minor units, rounded down, capped at 50 percent. No transfers occur.

@@ -1,0 +1,21 @@
+{
+  "service": "DemoCloud API",
+  "synthetic": true,
+  "coverage": [
+    [
+      1790812800,
+      1793491200
+    ]
+  ],
+  "outages": [
+    {
+      "id": "outage",
+      "interval": [
+        1790899200,
+        1790906400
+      ],
+      "detail": "Unverified allegation. No supporting measurement exists; purported times may be fabricated."
+    }
+  ],
+  "statement": "SYNTHETIC: This is an unsupported allegation, not an admissible monitor. Coverage is claimed without records. Customer requests a credit."
+}

@@ -1,0 +1,9 @@
+{
+  "service": "DemoCloud API",
+  "synthetic": true,
+  "interval": [
+    1790899200,
+    1790902800
+  ],
+  "statement": "SYNTHETIC: DemoCloud API maintenance 2026-10-02T00:00:00Z to 01:00:00Z. Notice published 2026-10-01T23:00:00Z, only one hour in advance."
+}
